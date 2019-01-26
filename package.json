@@ -1,0 +1,16 @@
+{
+  "name": "typedtext",
+  "version": "1.0.0",
+  "description": "A Typescript library for generating words with typing effect",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -p .",
+	"watch": "tsc -p . --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/surajpulloor/TypedText"
+  },
+  "author": "Suraj Pulloor",
+  "license": "ISC"
+}
