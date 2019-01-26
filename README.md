@@ -16,4 +16,4 @@ A Typescript library for creating typing word effect on the browser for a given 
 * The library is self contained, doesn't have any dependencies.
 
 ## TODO
-* Need to find a math formula to calculate the size of the cursor with respect tot the font size of the typed text
+* Need to find a math formula to calculate the size of the cursor with respect to the font size of the typed text
